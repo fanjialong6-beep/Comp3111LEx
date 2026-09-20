@@ -1,0 +1,8 @@
+# IntelliJ local-only files
+.idea/workspace.xml
+.idea/shelf/
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
